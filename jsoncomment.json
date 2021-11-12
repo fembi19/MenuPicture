@@ -1,0 +1,95 @@
+[
+    {
+        "data": [
+            {
+                "isi": "4",
+                "judul": "Food Quality"
+            },
+            {
+                "isi": "4",
+                "judul": "Menu Variety"
+            },
+            {
+                "isi": "4",
+                "judul": "Service"
+            },
+            {
+                "isi": "4",
+                "judul": "Atmeosphere"
+            }
+        ],
+        "comment": ""
+    },
+    {
+        "data": [
+            {
+                "isi": "4",
+                "judul": "Food Quality"
+            },
+            {
+                "isi": "4",
+                "judul": "Menu Variety"
+            },
+            {
+                "isi": "4",
+                "judul": "Service"
+            },
+            {
+                "isi": "4",
+                "judul": "Atmeosphere"
+            }
+        ],
+        "comment": ""
+    },
+    {
+        "data": [
+            {
+                "isi": "2",
+                "judul": "Menu Variety"
+            }
+        ],
+        "comment": ""
+    },
+    {
+        "data": [
+            {
+                "isi": "3",
+                "judul": "Food Quality"
+            },
+            {
+                "isi": "3",
+                "judul": "Menu Variety"
+            },
+            {
+                "isi": "3",
+                "judul": "Service"
+            },
+            {
+                "isi": "3",
+                "judul": "Atmeosphere"
+            }
+        ],
+        "comment": ""
+    },
+    {
+        "data": [
+            {
+                "isi": "1",
+                "judul": "Food Quality"
+            },
+            {
+                "isi": "1",
+                "judul": "Menu Variety"
+            },
+            {
+                "isi": "1",
+                "judul": "Service"
+            },
+            {
+                "isi": "1",
+                "judul": "Atmeosphere"
+            }
+        ],
+        "comment": ""
+    }
+]
